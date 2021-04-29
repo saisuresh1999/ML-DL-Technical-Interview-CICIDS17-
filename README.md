@@ -10,7 +10,7 @@ So, I conclude Random Forest Classifier is the most suitable model for the given
 
 Now, coming to whether Deep Learning models are more effective than the Machine Learning model. In my point of view, I prefer it depends on the problem but since Deep Learning models are having a powerful Feature Engineering stage, DL models seem to be ahead of ML models because, for ML models the feature engineering is done by us whereas, as I said earlier DL has powerful Feature Engineering stage. Also, the early stopping callback, tuning of the model hyperparameters, changing of the hidden layer activation function, dropout, loss function and optimizer should increase accuracy to some extent while using DL models in such ways it can learn and make intelligent decisions on its own. 
 
-But in this problem of Intrusion Detection System, since it is very crucial to choose the parameters and architecture of the neural network, so ML model (RF classifier) takes ahead on DL models. 
+But in this problem of Intrusion Detection System, since it is very crucial to choose the parameters and architecture of the neural network, so ML model (RF classifier) takes ahead on DL models, whereas in fact the limitations of ML can be surpassed by DL models. 
 
 
 
